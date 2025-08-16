@@ -1,14 +1,14 @@
-# Wriink 🚀  
+# Detekfit 🚀  
 
 ### **Innovating the Digital Experience**  
 
-Welcome to **Wriink**, a multinational technology company specializing in **app development** and **online-related services**. Our mission is to provide **innovative solutions** that enhance the digital experiences of individuals and businesses. We believe in leveraging **cutting-edge technology** to create **user-friendly and impactful applications**.
+Welcome to **Detekfit**, a multinational technology company specializing in **app development** and **online-related services**. Our mission is to provide **innovative solutions** that enhance the digital experiences of individuals and businesses. We believe in leveraging **cutting-edge technology** to create **user-friendly and impactful applications**.
 
 ---
-![snake gif](https://github.com/Wriink/Wriink/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/detekfit/detekfit/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌍 **Who We Are**  
-At **Wriink**, we are passionate about technology and its potential to transform industries. Our team of experts works tirelessly to develop high-quality applications that meet the evolving needs of users worldwide.  
+At **Detekfit**, we are passionate about technology and its potential to transform industries. Our team of experts works tirelessly to develop high-quality applications that meet the evolving needs of users worldwide.  
 
 ✅ **Expertise**: App Development, SaaS, AI Solutions, Cloud Computing  
 ✅ **Vision**: To create seamless and intuitive digital experiences  
@@ -35,9 +35,9 @@ At **Wriink**, we are passionate about technology and its potential to transform
 ## 📬 **Get in Touch**  
 We are always open to collaboration, partnerships, and new opportunities!  
 
-📧 **Email:** [support@wriink.com](mailto:support@wriink.com)  
-🌐 **Website:** [www.wriink.com](https://www.wriink.com)  
-🐦 **Twitter:** [@Wriink](https://twitter.com/wriink)  
+📧 **Email:** [support@Detekfit.com](mailto:support@detekfit.com)  
+🌐 **Website:** [www.Detekfit.com](https://www.detekfit.com)  
+🐦 **Twitter:** [@Detekfit](https://x.com/detekfit)  
 
 ---
 
@@ -46,6 +46,6 @@ We are always open to collaboration, partnerships, and new opportunities!
 
 
 <!---
-Wriink/Wriink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Detekfit/Detekfit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
